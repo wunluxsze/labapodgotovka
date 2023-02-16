@@ -1,0 +1,18 @@
+.img__favorite{
+    width: 250px;
+}
+.favorite__wrapper{
+    width: 700px;
+    margin: 0 auto;
+    background-color: bisque;
+    padding: 15px 20px;
+    border-radius: 50px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.like{
+    margin: 0 auto;
+    margin-top: 10px;
+}
